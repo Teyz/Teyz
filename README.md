@@ -1,8 +1,13 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bastien "Teyz" Rigaud ! 
-
+---
 [![Twitter](https://img.shields.io/twitter/follow/FrTeyz?style=social)](https://twitter.com/FrTeyz) 
 
-I'm a junior Full stack developer
+I'm Bastien Rigaud, 23 years old.
+Currently FullStack Develop at Parker&Parker.
+
+My favorites frameworks & languages are : Vue 3 & NodeJs
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teyz)](https://github.com/anuraghazra/github-readme-stats) ![Teyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=teyz&show_icons=true&theme=radical)
 
 ---
 
@@ -20,3 +25,5 @@ I'm a junior Full stack developer
 
 📁 My best projects 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Teyz&repo=spendesk)](https://github.com/Teyz/spendesk) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Teyz&repo=FortniteStats)](https://github.com/Teyz/FortniteStats)
