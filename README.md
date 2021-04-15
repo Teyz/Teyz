@@ -7,6 +7,7 @@ I'm a junior Full stack developer
 ---
 
 🧰 Toolbox
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="NodeJs Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+
+<img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="VueJs Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJs Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/symfony.svg" alt="Symfony Logo" width="50" height="50"/>
 
 ---
