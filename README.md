@@ -2,8 +2,8 @@
 ---
 [![Twitter](https://img.shields.io/twitter/follow/FrTeyz?style=social)](https://twitter.com/FrTeyz) ![Counter](https://komarev.com/ghpvc/?username=Teyz)
 
-I'm Bastien Rigaud, 23 years old.
-Currently FullStack Develop at Parker&Parker.
+I'm Bastien Rigaud, 24 years old.
+Currently Junior Software Engineer at Spendesk.
 
 My favorites frameworks & languages are : Vue 3 & NodeJs
 
