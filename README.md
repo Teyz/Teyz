@@ -26,4 +26,4 @@ My favorites frameworks & languages are : Vue 3 & NodeJs
 📁 My best projects 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Teyz&repo=spendesk)](https://github.com/Teyz/spendesk) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Teyz&repo=FortniteStats)](https://github.com/Teyz/FortniteStats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Teyz&repo=nfters)](https://github.com/Teyz/nfters)
