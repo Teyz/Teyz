@@ -6,3 +6,7 @@ I'm Bastien Rigaud, 26 years old.
 Currently Backend Engineer at Kick.
 
 My favorite language is : Golang
+
+Open source project : 
+
+https://github.com/Golerplate
