@@ -2,7 +2,7 @@
 ---
 [![Twitter](https://img.shields.io/twitter/follow/BastienRgd?style=social)](https://twitter.com/bastienrgd) ![Counter](https://komarev.com/ghpvc/?username=Teyz)
 
-I'm Bastien Rigaud, 26 years old.
+I'm Bastien Rigaud, 27 years old.
 
 My favorite language is : Golang
 
